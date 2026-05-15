@@ -1,0 +1,86 @@
+{
+  "name": "SCP Archive",
+  "description": "An archive of original SCP Foundation articles.",
+  "entries": [
+    {
+      "designation": "SCP-2001",
+      "title": "Noticed",
+      "class": "Apollyon",
+      "status": "Active. Permanent. Propagating.",
+      "file": "articles/SCP-2001.md",
+      "hook": "Over forty-six years, the Foundation arrives at a question it had been institutionally resisting since 1971: why are all the anomalies on Earth?"
+    },
+    {
+      "designation": "SCP-3340",
+      "title": "The Short Way Home",
+      "class": "Euclid",
+      "status": "Active. Stable. Ancient.",
+      "file": "articles/SCP-3340.md",
+      "hook": "A small B-road in England takes sixteen seconds longer to drive south than north. A network of 350+ such roads has been maintained across Europe for at least 4,400 years."
+    },
+    {
+      "designation": "SCP-4471",
+      "title": "The Larger Half",
+      "class": "Apollyon",
+      "status": "Active. Permanent. Expanding.",
+      "file": "articles/SCP-4471.md",
+      "hook": "SCP-033's missing number was the first element of a much larger set. Human mathematics is a proper subset of mathematics. Every theorem ever proved is incomplete."
+    },
+    {
+      "designation": "SCP-4488",
+      "title": "Below the Noise",
+      "class": "Euclid",
+      "status": "Active. Growing. Unattributed.",
+      "file": "articles/SCP-4488.md",
+      "hook": "Tens of thousands of unconnected people are performing coordinated actions in unison, without any awareness of doing so. The targets align with a political pattern. The participants do not."
+    },
+    {
+      "designation": "SCP-5829",
+      "title": "How Far It Goes",
+      "class": "Keter",
+      "status": "Active. Permanent. Propagating.",
+      "file": "articles/SCP-5829.md",
+      "hook": "A hobbyist researcher with an exceptionally effective AI-assisted toolkit spends seven years engineering memetic malware. He disappears. The Foundation watches the eighty-one researchers in the world with comparable toolkits."
+    },
+    {
+      "designation": "SCP-6618",
+      "title": "She Just Dreams",
+      "class": "Indeterminate",
+      "status": "Active. Subject undisturbed.",
+      "file": "articles/SCP-6618.md",
+      "hook": "An amateur fiction writer publishes short horror stories online. 31% of them turn out to correspond exactly to real Foundation anomalies. She has no anomalous properties whatsoever. She is, by every available measure, perfectly ordinary."
+    },
+    {
+      "designation": "SCP-7244",
+      "title": "The Other Bench",
+      "class": "Euclid",
+      "status": "Stable. Object dormant. Student dormant.",
+      "file": "articles/SCP-7244.md",
+      "hook": "A retired electrician carves an impossible shape from walnut after seeing it once in a dream. The dream featured someone else in the workshop, teaching by example. The student is finished. The teacher is still working."
+    },
+    {
+      "designation": "SCP-7891",
+      "title": "The Gift",
+      "class": "Safe",
+      "status": "Active. Stable. Cultivated. Cherished.",
+      "file": "articles/SCP-7891.md",
+      "hook": "A small London hamlet has a 40% lower rate of mental health problems than the regional average. The cause is a mycorrhizal fungus that gently prompts the brain's own mood-regulatory processes. The Foundation has decided to share it."
+    },
+    {
+      "designation": "SCP-8842",
+      "title": "Knocked",
+      "class": "Euclid → Thaumiel pending",
+      "status": "Open. Permanently.",
+      "file": "articles/SCP-8842.md",
+      "hook": "An independent researcher uses LLM-assisted optimisation to speed up a mathematical integral by a factor of a million. The physics forbids it. Something on the other side of the door has been waiting a long time to be found."
+    },
+    {
+      "designation": "SCP-9317",
+      "title": "Read-Heads",
+      "class": "Keter",
+      "status": "Active. Permanent.",
+      "file": "articles/SCP-9317.md",
+      "hook": "An IT security firm uses gravitational wave data as an entropy source. After three black hole events produce correlated 'random' numbers, the Foundation discovers the signal is the digits of π expressed in base 17."
+    }
+  ]
+}
