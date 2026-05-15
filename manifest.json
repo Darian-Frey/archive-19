@@ -11,6 +11,14 @@
       "hook": "Over forty-six years, the Foundation arrives at a question it had been institutionally resisting since 1971: why are all the anomalies on Earth?"
     },
     {
+      "designation": "SCP-3127",
+      "title": "The Resolution",
+      "class": "Apollyon",
+      "status": "Active. Permanent. Threaded.",
+      "file": "articles/SCP-3127.md",
+      "hook": "The universe has a bug. A quiet population of pattern-recognisers — hyperphantasic, autistic, attentive — has been perceiving it for centuries without knowing what they were noticing. The Foundation has decided not to tell them."
+    },
+    {
       "designation": "SCP-3340",
       "title": "The Short Way Home",
       "class": "Euclid",
