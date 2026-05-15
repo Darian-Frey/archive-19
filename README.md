@@ -1,9 +1,13 @@
-# [REPO-NAME-TBD]
+# archive-19
 
 > **Status:** Active
 > **Provenance:** Shane Hartley (author), Claude (drafting collaborator)
 > **Last reviewed:** 2026-05-15
 > **Why this status:** Ongoing creative project. New articles added as ideas land.
+
+---
+
+**Read the archive:** **[darian-frey.github.io/archive-19](https://darian-frey.github.io/archive-19/)**
 
 ---
 
@@ -16,6 +20,14 @@ These are not canon entries on the [SCP Wiki](https://scpwiki.com). They are ind
 The [SCP Foundation](https://scpwiki.com) is a long-running collaborative fiction project. Contributors write in-universe documents describing anomalous objects, entities, and phenomena that a fictional secret organisation ("the Foundation") has identified, classified, and is attempting to contain. The format is constrained — clinical tone, redactions, addenda, recovered documents, interview transcripts — and the constraints are part of the appeal. Done well, an SCP article reads like a leaked classified file about something that should not exist.
 
 The articles in this repo follow the format. They do not share continuity with the official SCP Wiki except where they explicitly reference established articles (e.g. SCP-033).
+
+## Reading the archive
+
+There are two ways to read.
+
+**On the live site at [darian-frey.github.io/archive-19](https://darian-frey.github.io/archive-19/)** — a single-page terminal-themed reader with four colour modes (phosphor green, amber, white, and parchment) and four typefaces. The articles render in a clinical archive interface that suits the format. This is the recommended way to read.
+
+**Directly on GitHub** — open the [`articles/`](articles/) directory and read each `.md` file in GitHub's native Markdown view. Plain, functional, no styling beyond GitHub's defaults. Useful if you want to read or copy a specific article without the surrounding interface.
 
 ## Catalogue
 
