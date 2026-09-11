@@ -18,19 +18,31 @@ If you'd like a suggested sequence rather than reading in designation order, the
 3. **[SCP-9317](articles/SCP-9317.md)** — the universe transmitting through black holes.
 4. **[SCP-3340](articles/SCP-3340.md)** — a small road in England that has been quietly doing something for forty centuries.
 5. **[SCP-6048](articles/SCP-6048.md)** — a thirty-second sea area in the Shipping Forecast, and the one person who has been listening for it.
-6. **[SCP-4471](articles/SCP-4471.md)** — the foundations of mathematics are wrong.
-7. **[SCP-5829](articles/SCP-5829.md)** — a researcher whose tools were too good for the question he asked.
-8. **[SCP-4488](articles/SCP-4488.md)** — the unaware human botnet, possibly downstream of SCP-5829.
-9. **[SCP-6618](articles/SCP-6618.md)** — the most normal person in the world.
-10. **[SCP-3127](articles/SCP-3127.md)** — the universe has a bug, and a quiet population has been noticing it for centuries.
-11. **[SCP-2001](articles/SCP-2001.md)** — the Foundation looks up.
-12. **[SCP-7891](articles/SCP-7891.md)** — the responsibility of having found something good.
+6. **[SCP-5710](articles/SCP-5710.md)** — a door that wasn't built, and the rooms behind it, forgetting something else and remembering us.
+7. **[SCP-4471](articles/SCP-4471.md)** — the foundations of mathematics are wrong.
+8. **[SCP-5829](articles/SCP-5829.md)** — a researcher whose tools were too good for the question he asked.
+9. **[SCP-4488](articles/SCP-4488.md)** — the unaware human botnet, possibly downstream of SCP-5829.
+10. **[SCP-6618](articles/SCP-6618.md)** — the most normal person in the world.
+11. **[SCP-3127](articles/SCP-3127.md)** — the universe has a bug, and a quiet population has been noticing it for centuries.
+12. **[SCP-8461](articles/SCP-8461.md)** — a billion-year-old ship in the belt, the people who went round and checked on everyone, and the quiet that followed them.
+13. **[SCP-2001](articles/SCP-2001.md)** — the Foundation looks up.
+14. **[SCP-1743](articles/SCP-1743.md)** — the universe has an uptime. It is nineteen years. Everything before was furnished.
+15. **[SCP-7891](articles/SCP-7891.md)** — the responsibility of having found something good.
 
-The last article in the recommended order is the warmest, and is placed there deliberately. After SCP-2001, the archive earns a piece of light.
+The last article in the recommended order is the warmest, and is placed there deliberately. After SCP-1743, the archive earns a piece of light.
 
 ---
 
 ## Entries
+
+### SCP-1743
+- **Title:** *Uptime*
+- **Class:** Apollyon
+- **Status:** Active. Running. Unfurnished.
+- **File:** [articles/SCP-1743.md](articles/SCP-1743.md)
+- **Hook:** A civilian physics lab builds an instrument to place an upper bound on a coupling constant and expects a null result. Instead it returns a sharply resolved figure: the universe came into existence 17 years, 4 months, 3 days, 13 hours and 9 minutes ago, already 13.8 billion years old, already running. The light from Andromeda was created in flight. Every memory older than nineteen years is of a history that did not take place. And at the boundary, where the instrument stops returning values, there is a small structured region that one analyst called a thumbprint before withdrawing the word. The Lovecraftian one.
+
+---
 
 ### SCP-2001
 - **Title:** *(untitled)*
@@ -77,6 +89,15 @@ The last article in the recommended order is the warmest, and is placed there de
 
 ---
 
+### SCP-5710
+- **Title:** *Front Rooms*
+- **Class:** Euclid (provisional)
+- **Status:** Active. Converging. Remembered.
+- **File:** [articles/SCP-5710.md](articles/SCP-5710.md)
+- **Hook:** A facilities electrician files a ticket: there's a fire door at the end of Sub-Level 2 East that he didn't install, and he'd know. Behind it is a corridor of rooms arranged in a gradient — the nearest almost Foundation offices, the farthest barely rooms — and every week, every room is a little more like an office. Not by gaining features: by losing whatever it had instead. Another reality is forgetting itself and remembering ours in its place, and when a room finishes, the building has always had it. The Backrooms, seen from the other side; and if there is a front, there is a back.
+
+---
+
 ### SCP-5829
 - **Title:** *(untitled)*
 - **Class:** Keter
@@ -119,6 +140,15 @@ The last article in the recommended order is the warmest, and is placed there de
 - **Status:** Active. Stable. Cultivated. Cherished.
 - **File:** [articles/SCP-7891.md](articles/SCP-7891.md)
 - **Hook:** A small London hamlet has a 40% lower rate of mental health problems than the regional average. The effect centres on the park, which is exceptionally beautiful. The cause is a mycorrhizal fungus that aerosolises spores acting as gentle prompts to the brain's own mood-regulatory processes. The Foundation, after careful deliberation, has decided to cultivate it and share it. The warmest article in the archive.
+
+---
+
+### SCP-8461
+- **Title:** *The Same Shape*
+- **Class:** Safe
+- **Status:** Active. Stable. Translating.
+- **File:** [articles/SCP-8461.md](articles/SCP-8461.md)
+- **Hook:** Set a few decades on, when the belt is being mined. A survey geologist bores into an asteroid because its density profile "has edges." Inside is a three-kilometre vessel between one and three billion years old, built for 2,400, running entirely on light, and a holographic memory core that wakes when a systems tech points a laser at a wall panel. Its log records four centuries of going round and visiting three hundred inhabited worlds — carrying messages, staying extra days for the music. The crew were bipeds with five fingers and a heavier brow. So was everyone they met. Then the worlds went quiet, one by one, and the ship came to wait beside the only thing in this system that was breathing.
 
 ---
 

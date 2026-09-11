@@ -3,6 +3,14 @@
   "description": "An archive of original SCP Foundation articles.",
   "entries": [
     {
+      "designation": "SCP-1743",
+      "title": "Uptime",
+      "class": "Apollyon",
+      "status": "Active. Running. Unfurnished.",
+      "file": "articles/SCP-1743.md",
+      "hook": "A high-energy physics experiment built to return a null result instead returns a clock. The universe began 17 years, 4 months, 3 days, 13 hours and 9 minutes before the first measurement, with 13.8 billion years of history already in place. Everything before was furnished. Nobody furnished it for us."
+    },
+    {
       "designation": "SCP-2001",
       "title": "Noticed",
       "class": "Apollyon",
@@ -43,6 +51,14 @@
       "hook": "Tens of thousands of unconnected people are performing coordinated actions in unison, without any awareness of doing so. The targets align with a political pattern. The participants do not."
     },
     {
+      "designation": "SCP-5710",
+      "title": "Front Rooms",
+      "class": "Euclid",
+      "status": "Active. Converging. Remembered.",
+      "file": "articles/SCP-5710.md",
+      "hook": "A fire door appears at the end of a corridor in an administrative Site. Behind it, rooms: the near ones almost offices, the far ones barely rooms at all. Every week they are more like offices. Another reality is forgetting itself, and remembering us instead. The Backrooms, from the other side."
+    },
+    {
       "designation": "SCP-5829",
       "title": "How Far It Goes",
       "class": "Keter",
@@ -81,6 +97,14 @@
       "status": "Active. Stable. Cultivated. Cherished.",
       "file": "articles/SCP-7891.md",
       "hook": "A small London hamlet has a 40% lower rate of mental health problems than the regional average. The cause is a mycorrhizal fungus that gently prompts the brain's own mood-regulatory processes. The Foundation has decided to share it."
+    },
+    {
+      "designation": "SCP-8461",
+      "title": "The Same Shape",
+      "class": "Safe",
+      "status": "Active. Stable. Translating.",
+      "file": "articles/SCP-8461.md",
+      "hook": "Belt miners bore into an asteroid because it has edges. Inside is a three-kilometre ship, a billion years old, running on light, with a memory core that still holds its log: four centuries of visiting three hundred inhabited worlds. The crew looked almost like us. So did everyone they met. Then the worlds went quiet, one by one."
     },
     {
       "designation": "SCP-8842",
