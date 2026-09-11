@@ -2,7 +2,7 @@
 
 > **Status:** Active
 > **Provenance:** Shane Hartley (author), Claude (drafting collaborator)
-> **Last reviewed:** 2026-05-15
+> **Last reviewed:** 2026-09-11
 > **Why this status:** Living catalogue. New entries appended at the bottom as articles are added.
 
 ---
@@ -17,12 +17,14 @@ If you'd like a suggested sequence rather than reading in designation order, the
 2. **[SCP-8842](articles/SCP-8842.md)** — the first hint that something is on the other side of the wall.
 3. **[SCP-9317](articles/SCP-9317.md)** — the universe transmitting through black holes.
 4. **[SCP-3340](articles/SCP-3340.md)** — a small road in England that has been quietly doing something for forty centuries.
-5. **[SCP-4471](articles/SCP-4471.md)** — the foundations of mathematics are wrong.
-6. **[SCP-5829](articles/SCP-5829.md)** — a researcher whose tools were too good for the question he asked.
-7. **[SCP-4488](articles/SCP-4488.md)** — the unaware human botnet, possibly downstream of SCP-5829.
-8. **[SCP-6618](articles/SCP-6618.md)** — the most normal person in the world.
-9. **[SCP-2001](articles/SCP-2001.md)** — the Foundation looks up.
-10. **[SCP-7891](articles/SCP-7891.md)** — the responsibility of having found something good.
+5. **[SCP-6048](articles/SCP-6048.md)** — a thirty-second sea area in the Shipping Forecast, and the one person who has been listening for it.
+6. **[SCP-4471](articles/SCP-4471.md)** — the foundations of mathematics are wrong.
+7. **[SCP-5829](articles/SCP-5829.md)** — a researcher whose tools were too good for the question he asked.
+8. **[SCP-4488](articles/SCP-4488.md)** — the unaware human botnet, possibly downstream of SCP-5829.
+9. **[SCP-6618](articles/SCP-6618.md)** — the most normal person in the world.
+10. **[SCP-3127](articles/SCP-3127.md)** — the universe has a bug, and a quiet population has been noticing it for centuries.
+11. **[SCP-2001](articles/SCP-2001.md)** — the Foundation looks up.
+12. **[SCP-7891](articles/SCP-7891.md)** — the responsibility of having found something good.
 
 The last article in the recommended order is the warmest, and is placed there deliberately. After SCP-2001, the archive earns a piece of light.
 
@@ -36,6 +38,15 @@ The last article in the recommended order is the warmest, and is placed there de
 - **Status:** Active. Permanent. Propagating.
 - **File:** [articles/SCP-2001.md](articles/SCP-2001.md)
 - **Hook:** Over forty-six years, the Foundation slowly arrives at a question it had been institutionally resisting since 1971: why are *all* the anomalies on Earth? A dangerous experiment produces a fleeting glimpse of something looking back. The knowledge propagates among senior researchers faster than the Foundation can contain it.
+
+---
+
+### SCP-3127
+- **Title:** *The Resolution*
+- **Class:** Apollyon
+- **Status:** Active. Permanent. Threaded.
+- **File:** [articles/SCP-3127.md](articles/SCP-3127.md)
+- **Hook:** Shadows that fall slightly wrong. Leaves in wind moving to an 11.7-second beat. A wrongness in all music, and words that every language is missing in the same places. A quiet population of pattern-recognisers — hyperphantasic, autistic, attentive — has been comparing notes on these for centuries without knowing they were converging on a single thing: the universe has a bug. The Foundation has verified it, and has decided not to tell them.
 
 ---
 
@@ -72,6 +83,15 @@ The last article in the recommended order is the warmest, and is placed there de
 - **Status:** Active. Permanent. Propagating.
 - **File:** [articles/SCP-5829.md](articles/SCP-5829.md)
 - **Hook:** A hobbyist researcher with an exceptionally effective AI-assisted research toolkit ("the Four Instruments") spends seven years engineering substrate-agnostic malware, then memetic malware. He disappears. The Foundation watches the eighty-one other researchers in the world who have independently developed comparable toolkits, and waits to see what they ask their tools to do.
+
+---
+
+### SCP-6048
+- **Title:** *Sailing By*
+- **Class:** Euclid
+- **Status:** Active. Broadcast nightly. Transcribed.
+- **File:** [articles/SCP-6048.md](articles/SCP-6048.md)
+- **Hook:** The 00:48 Shipping Forecast on BBC Radio 4 has, since at least 1955, included a thirty-second sea area. It is not in the Met Office text or the announcer's script; the announcer does not remember reading it; the broadcast does not overrun. The weather there is coherent, seasonal, and belongs to nowhere on the chart. A widow in Aberdeenshire has been transcribing it every night since the year after her husband's trawler was lost in Bailey. She worked out what it was in the first month. The Foundation took rather longer.
 
 ---
 
